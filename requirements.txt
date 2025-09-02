@@ -1,0 +1,12 @@
+pandas
+psycopg2
+sqlalchemy
+openpyxl
+numpy
+xlrd
+dash
+dash_bootstrap_components
+dash_labs
+python-dotenv
+datetime
+matplotlib
