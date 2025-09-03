@@ -1,5 +1,5 @@
 
-# Dash data extraction and reporting repo.  The app is configured with a home page and several sub-pages for diffeent instruments
+# Dash DES export tool repo.  The app is meant to accept and remember user inputs and then extract the appropriate data into DES format
 
 This project uses Dash (https://dash.plotly.com/) 
 
