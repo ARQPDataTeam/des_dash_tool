@@ -87,7 +87,7 @@ app.layout = html.Div(
     children=[
         html.Div(
             style={
-                "backgroundImage": "url('/assets/IMG_0180.jpg')",  # Replace with your image URL or local asset
+                "backgroundImage": f"url('{app.get_asset_url('IMG_0180.jpg')}')",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center",
                 "padding": "40px 0",
